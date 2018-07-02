@@ -27,7 +27,6 @@ hero_button:
 show_news: true
 menu:
   navigation:
-    name: Home
     identifier: _index
     url: "/"
     weight: 1
